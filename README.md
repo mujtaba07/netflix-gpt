@@ -2,6 +2,11 @@
 # netflix gpt
 -Create react app
 -configured tailwind css
+-header
+-login form
+-sign up
+
+# pro tip --->  (use "Formik library" for handling forms with lots of data)
 
 # features
 -login/signup page
